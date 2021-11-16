@@ -1,6 +1,6 @@
 # _{Application Name}_
 
-#### By _**Matt C.**_
+#### By _**Matt C.** & **Kate K.** and **Drew H.**_
 
 #### _{Brief description of application}_
 
@@ -34,4 +34,4 @@ _{This is a detailed description of your application. Give as much detail as nee
 
 _If you run into any problems/bugs feel free to send me an email @mc.casperson@gmail.com with details._
 
-Copyright (c) _2021_ _Matt C._
+Copyright (c) _2021_ _Matt C._ _Kate K._ _Drew H._
